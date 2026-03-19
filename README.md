@@ -117,7 +117,7 @@ This project is deployed using GitHub Pages.
 Live Link:
 
 ```id="lto857"
-https://your-username.github.io/tic-tac-toe/
+https://palak-crafts.github.io/tic-tac-toe/
 ```
 
 ---
